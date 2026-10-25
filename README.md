@@ -60,6 +60,4 @@ Automated audits cover only part of accessibility. A score of 100 does not estab
 
 ## Sources and acknowledgements
 
-Data: [HTTP Archive](https://httparchive.org/), [documentation](https://httparchive.org/docs/). Thanks to HTTP Archive and the datathon organisers. AI assistance supported SQL drafting, analysis, documentation and presentation preparation. No contributor identities or website endorsements are implied.
-
-Before merging into a parent repository, confirm its contribution rules and licence policy. This folder does not assert a new licence over upstream data or supplied template artwork.
+Data: [HTTP Archive](https://httparchive.org/), [documentation](https://httparchive.org/docs/). Thanks to HTTP Archive and the datathon organisers. 
